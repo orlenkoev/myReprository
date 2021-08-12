@@ -16,7 +16,6 @@ public class SimpleTestClass {
         assertEquals("10 + 5 must be 15", 15, actualResult);
     }
 
-    // TODO (*)
     //add tests for new methods (multiply, division, subtraction, square root, x^2)
     @Test
     public void testSubtractionMethod() {
