@@ -46,7 +46,7 @@ public class SimpleTestClass {
     public void testPowMethod() {
         double res = calc.powMethod(3);
         assertEquals("3^2 must be 9", 9.0, res);
-
+//some text from other dev
     }
 }
 
