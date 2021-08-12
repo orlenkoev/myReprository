@@ -26,8 +26,8 @@ public class SimpleTestClass {
 
     @Test
     public void testMultiplyMethod() {
-        int multResult = calc.multiple(5, 3);
-        assertEquals("5 * 3 must be 15", 15, multResult);
+        int multResult = calc.multiple(2, 4);
+        assertEquals("2 * 4 must be 8", 8, multResult);
     }
 
     @Test
